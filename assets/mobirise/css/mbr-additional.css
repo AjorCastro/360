@@ -1131,7 +1131,7 @@ a {
 }
 .cid-sDUEw56zX4 .mbr-overlay {
   background: #d4dee2;
-  opacity: 0.6;
+  opacity: 0.8;
 }
 .cid-sDUEw56zX4 img,
 .cid-sDUEw56zX4 .item-img {
@@ -1263,7 +1263,7 @@ a {
 }
 .cid-sDVraFbpYF {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
   background-color: #232323;
 }
 .cid-sDVraFbpYF .media-wrap {
@@ -1326,4 +1326,7 @@ a {
   .cid-sDVraFbpYF div > *:last-child {
     margin-top: 0 !important;
   }
+}
+.cid-sDVraFbpYF .list P {
+  text-align: left;
 }
